@@ -4,30 +4,3 @@ zh8y6y6n'"/><\`-
 
 ## test
 
-> The quick brown fox jumps over the lazy dog.
-
-<br>
-
-> The quick brown fox jumps over the lazy dog.
->
-> The quick brown fox jumps over the lazy dog.
->
-> The quick brown fox jumps over the lazy dog.
-
-<br>
-
-> The quick brown fox jumps over the lazy dog.
->> The quick brown fox jumps over the lazy dog.
->>> The quick brown fox jumps over the lazy dog.
-
-<br>
-
-> **The quick brown fox** *jumps over the lazy dog.*
-
-<strike>
-
-```js
-console.log('Error');
-```
-
-</strike>
